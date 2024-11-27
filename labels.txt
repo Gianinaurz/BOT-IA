@@ -1,0 +1,7 @@
+0 convencional/comprimido
+1 masticable/comprimido
+2 multicapa/comprimido
+3 bucodispersables/comprimidos
+4 recubierto/comprimido
+5 efervescente/comprimido
+6 jarabe
